@@ -1,0 +1,50 @@
+[
+    {
+        "product_name": "Yoga Mat",
+        "category": "Fitness Equipment",
+        "price": 29.99,
+        "description": "High-quality, non-slip yoga mat for all types of yoga and floor exercises.",
+        "product_rating": 4.5,
+        "image_url": "https://media.e-valy.com/cms/products/images/89bbc86c-a609-4aa5-87af-0c9c4c41c904"
+    },
+    {
+        "product_name": "Whey Protein",
+        "category": "Supplements",
+        "price": 39.99,
+        "description": "High-quality whey protein powder to support muscle growth and recovery.",
+        "product_rating": 4.3,
+        "image_url": "https://pyxis.nymag.com/v1/imgs/1ff/787/98704de3a6a02050f3d0ba445cc9ca82a7-wheyvanilla.rsquare.w600.jpg"
+    },
+    {
+        "product_name": "Treadmill",
+        "category": "Cardio Equipment",
+        "price": 599.99,
+        "description": "High-performance treadmill with multiple speed settings, incline control, and heart rate monitor.",
+        "product_rating": 4.8,
+        "image_url": "https://assets.roguefitness.com/f_auto,q_auto,c_fill,g_center,w_616,h_616,b_rgb:f8f8f8/catalog/Conditioning/Endurance%20/Bikes/ECHOBIKE/ECHOBIKE-TH_ih5rzy.png"
+    },
+    {
+        "product_name": "Kettlebell",
+        "category": "Strength Training",
+        "price": 34.99,
+        "description": "Cast iron kettlebell for full-body strength training and functional fitness exercises.",
+        "product_rating": 4.6,
+        "image_url": "https://decathlon.com.sa/cdn/shop/products/01c6be6f55641815d3f17df173360984_675x.progressive.jpg?v=1654918945"
+    },
+    {
+        "product_name": "Foam Roller",
+        "category": "Recovery",
+        "price": 24.99,
+        "description": "Durable foam roller for muscle recovery and massage therapy.",
+        "product_rating": 4.4,
+        "image_url": "https://static-01.daraz.com.bd/original/7675f3e0c1538e21104d9dfc2c78d790.jpg"
+    },
+    {
+        "product_name": "Fitness Tracker",
+        "category": "Wearable Technology",
+        "price": 79.99,
+        "description": "Smart fitness tracker with heart rate monitor, GPS, and sleep tracking.",
+        "product_rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/61GvwAAMvNL.jpg"
+    }
+]
