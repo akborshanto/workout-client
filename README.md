@@ -9,7 +9,7 @@
 
 # Workout
 
-The Workout website is designed to streamline the process of booking personal trainers and scheduling workout sessions. Users can easily book trainers, make payments, and manage their profiles, while trainers have access to their own dashboards to add session slots and track bookings. Admins have the authority to manage trainers and user requests.
+The Workout  website is designed to streamline the process of booking personal trainers and scheduling workout sessions. Users can easily book trainers, make payments, and manage their profiles, while trainers have access to their own dashboards to add session slots and track bookings. Admins have the authority to manage trainers and user requests.
 
 ## Key Features:
 
